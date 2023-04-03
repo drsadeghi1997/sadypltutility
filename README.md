@@ -1,19 +1,4 @@
-<img width="2000" src="file://pictures/Sadeghi.png" alt="111"/>
-<img width="2000" src="file://./pictures/Sadeghi.png" alt="222"/>
-<img width="2000" src="file://Sadeghi.png" alt="333"/>
-<img width="2000" src="file://images/Sadeghi.png" alt="4444"/>
-<img width="2000" src="file://c:/Sadeghi2.png" alt="555"/>
-<img width="2000" src="file://c:/Sadeghi.png" alt="666"/>
-<img width="2000" src="file://c:/Sadeghi.jpg" alt="777"/>
-<img width="2000" src="file://F:/0_My_Project/0_My_Python_Libraries/sadypltutility/Sadeghi.png" alt="777"/>
-<img src="./sadeghi3.png"alt="4444"></p>
-
-[No here](file://c:/Sadeghi2.png)
-![Yes here](file://c:/Sadeghi2.png)
-![1111](Sadeghi.png "Title")
-![2222](pictures/Sadeghi.png)
-![3333](./pictures/Sadeghi.png)
-![4444](file://F:/0_My_Project/0_My_Python_Libraries/sadypltutility/Sadeghi.png "A. M. Sadeghi from SEG Group")
+![1111](Sadeghi3.png "Title")
 # Abdul Majid Sadeghi package: Utility for matplotlib module
 ## Package description
 ----------------------------------------------------
