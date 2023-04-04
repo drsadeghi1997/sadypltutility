@@ -1,4 +1,5 @@
-![My Image](./Sadeghi.png "Abdul Majid Sadeghi")
+![My Image 333](https://github.com/drsadeghi1997/sadypltutility/blob/main/Sadeghi5.jpg?raw=true "Abdul Majid Sadeghi")
+----------------------------------------------------
 # Abdul Majid Sadeghi package: Utility for matplotlib module
 ## Package description
 ----------------------------------------------------
@@ -28,7 +29,7 @@
 - __File:__
 	- sadypltutility.py
 - __Issuing Date:__
-	- April 03, Sunday, 2023
+	- April 04, Sunday, 2023
 - __License:__
 	- IATN International academy license
 - __Name:__
@@ -45,5 +46,5 @@
 - __Utility Description :__
 	- Abdul Majid Sadeghi Utility for matplotlib module
 - __Version:__
-	- 1.1.16
+	- 1.2.0
 ----------------------------------------------------
