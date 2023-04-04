@@ -1,4 +1,4 @@
-![1111](Sadeghi.png "Abdul Majid Sadeghi")
+![My Image](./Sadeghi3.png "Abdul Majid Sadeghi")
 # Abdul Majid Sadeghi package: Utility for matplotlib module
 ## Package description
 ----------------------------------------------------
